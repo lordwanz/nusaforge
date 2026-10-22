@@ -4,7 +4,7 @@ All notable changes to NusaForge are documented in this file.
 
 The format follows the principles of Keep a Changelog, and version numbers follow Semantic Versioning where applicable.
 
-## [v1.0.2]
+## [v1.0.3]
 
 ### Added
 
