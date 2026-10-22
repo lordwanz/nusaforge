@@ -1,51 +1,56 @@
-NusaForge
+<div align="center">
 
-NusaForge — [short description of the project's actual purpose].
+# NusaForge
 
-NusaForge is a developer project focused on [describe its actual functionality]. This repository provides project information, documentation, and links to the official npm package.
+### Forge ideas into software.
 
-""npm version" (https://img.shields.io/npm/v/nusaforge)" (https://www.npmjs.com/package/nusaforge)
-""npm downloads" (https://img.shields.io/npm/dm/nusaforge)" (https://www.npmjs.com/package/nusaforge)
-""License" (https://img.shields.io/npm/l/nusaforge)" (./LICENSE)
+A [type of tool] designed to [main purpose].
 
-Overview
+[![npm version](https://img.shields.io/npm/v/nusaforge)](https://www.npmjs.com/package/nusaforge)
+[![npm downloads](https://img.shields.io/npm/dm/nusaforge)](https://www.npmjs.com/package/nusaforge)
 
-NusaForge is designed for [target audience] who need [problem it solves].
+</div>
 
-Explore the project to learn about its purpose, supported functionality, installation requirements, and usage.
+---
 
-Features
+## Overview
 
-- [Actual feature 1]
-- [Actual feature 2]
-- [Actual feature 3]
+NusaForge is a [project category] built to help
+[target audience] accomplish [main task].
 
-Installation
+This project focuses on [main benefit] through
+[actual approach or technology].
 
-Install NusaForge from npm:
+## Features
 
+- **[Feature One]** — [short explanation].
+- **[Feature Two]** — [short explanation].
+- **[Feature Three]** — [short explanation].
+
+## Installation
+
+```bash
 npm install nusaforge
+```
 
-«Installation instructions may vary depending on the package's requirements.»
+## Quick Start
 
-Usage
+[Add a verified example that demonstrates
+the actual functionality of NusaForge.]
 
-See the "installation guide" (docs/installation.md) and the official npm package documentation for supported commands and examples.
+## Documentation
 
-Documentation
+- [npm Package](https://www.npmjs.com/package/nusaforge)
+- [Installation Guide](docs/installation.md)
+- [Frequently Asked Questions](docs/faq.md)
 
-- "Installation guide" (docs/installation.md)
-- "Frequently asked questions" (docs/faq.md)
-- "npm package" (https://www.npmjs.com/package/nusaforge)
+## Contributing
 
-Contributing
+Bug reports, suggestions, and documentation
+improvements are welcome.
 
-Suggestions, documentation improvements, and bug reports are welcome. Please read "CONTRIBUTING.md" (CONTRIBUTING.md) before submitting a contribution.
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Security
+## License
 
-If you discover a security issue, please follow the instructions in "SECURITY.md" (SECURITY.md).
-
-License
-
-See "LICENSE" (LICENSE) for licensing information.
+See [LICENSE](LICENSE) for licensing details.
