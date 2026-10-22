@@ -1,56 +1,70 @@
-<div align="center">
+NUSAFORGE
+Forge ideas into software.
 
-# NusaForge
+NusaForge is a developer project created by Siswanto, an Indonesian developer focused on building practical software and exploring new technologies.
 
-### Forge ideas into software.
+ABOUT NUSAFORGE
 
-A [type of tool] designed to [main purpose].
+NusaForge aims to turn ideas into useful software through practical engineering, continuous improvement, and thoughtful development.
 
-[![npm version](https://img.shields.io/npm/v/nusaforge)](https://www.npmjs.com/package/nusaforge)
-[![npm downloads](https://img.shields.io/npm/dm/nusaforge)](https://www.npmjs.com/package/nusaforge)
+This repository serves as an information and documentation hub for the NusaForge project.
 
-</div>
+PROJECT GOALS
 
----
+- Build practical and useful developer tools.
+- Improve software development workflows.
+- Encourage experimentation and continuous learning.
+- Develop solutions to real-world problems.
+- Share project progress with the global developer community.
 
-## Overview
+FEATURES
 
-NusaForge is a [project category] built to help
-[target audience] accomplish [main task].
+- Developer-focused software development.
+- Practical engineering and problem-solving.
+- Continuous improvement and iterative development.
+- Project information and documentation.
 
-This project focuses on [main benefit] through
-[actual approach or technology].
+Note: Available features depend on the current implementation and release.
 
-## Features
+INSTALLATION
 
-- **[Feature One]** — [short explanation].
-- **[Feature Two]** — [short explanation].
-- **[Feature Three]** — [short explanation].
+Install NusaForge using npm:
 
-## Installation
-
-```bash
 npm install nusaforge
-```
 
-## Quick Start
+For installation requirements, supported commands, and usage instructions, visit the official npm package page.
 
-[Add a verified example that demonstrates
-the actual functionality of NusaForge.]
+NPM PACKAGE
 
-## Documentation
+https://www.npmjs.com/package/nusaforge
 
-- [npm Package](https://www.npmjs.com/package/nusaforge)
-- [Installation Guide](docs/installation.md)
-- [Frequently Asked Questions](docs/faq.md)
+QUICK START
 
-## Contributing
+After installation, refer to the official package documentation for supported commands, configuration, and usage examples.
 
-Bug reports, suggestions, and documentation
-improvements are welcome.
+PROJECT LINKS
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+npm: https://www.npmjs.com/package/nusaforge
+GitHub: Add the official repository URL here.
 
-## License
+ABOUT THE CREATOR
 
-See [LICENSE](LICENSE) for licensing details.
+Siswanto is an Indonesian developer interested in software engineering, programming, infrastructure, and practical technology projects.
+
+Through NusaForge, he aims to strengthen his engineering skills, explore new ideas, and build useful software for the developer community.
+
+His development philosophy emphasizes continuous learning, logical problem-solving, experimentation, and practical solutions.
+
+CONTRIBUTING
+
+Suggestions, bug reports, and improvements are welcome if contributions are enabled for this project.
+
+Please review the repository's contribution guidelines before submitting changes.
+
+LICENSE
+
+Refer to the LICENSE file for the applicable licensing terms.
+
+Created by Siswanto in Indonesia.
+
+Forge ideas into software.
