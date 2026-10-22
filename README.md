@@ -1,70 +1,72 @@
-NUSAFORGE
-Forge ideas into software.
+<div align="center">
 
-NusaForge is a developer project created by Siswanto, an Indonesian developer focused on building practical software and exploring new technologies.
+# NusaForge
 
-ABOUT NUSAFORGE
+### Forge ideas into software.
 
-NusaForge aims to turn ideas into useful software through practical engineering, continuous improvement, and thoughtful development.
+A developer-focused project by Siswanto, an Indonesian developer passionate about software engineering and practical technology.
 
-This repository serves as an information and documentation hub for the NusaForge project.
+[![npm version](https://img.shields.io/npm/v/nusaforge?style=flat-square)](https://www.npmjs.com/package/nusaforge)
+[![npm downloads](https://img.shields.io/npm/dm/nusaforge?style=flat-square)](https://www.npmjs.com/package/nusaforge)
 
-PROJECT GOALS
+</div>
 
-- Build practical and useful developer tools.
-- Improve software development workflows.
-- Encourage experimentation and continuous learning.
-- Develop solutions to real-world problems.
-- Share project progress with the global developer community.
+---
 
-FEATURES
+## Overview
 
-- Developer-focused software development.
-- Practical engineering and problem-solving.
-- Continuous improvement and iterative development.
-- Project information and documentation.
+NusaForge is a software development project created by Siswanto in Indonesia.
 
-Note: Available features depend on the current implementation and release.
+Built around practical engineering and continuous improvement, NusaForge aims to turn ideas into useful software and contribute to the developer community.
 
-INSTALLATION
+This repository serves as an information hub for the project, its documentation, and related resources.
 
-Install NusaForge using npm:
+## Features
 
+- **Developer-Focused** — Centered on practical software development and engineering.
+- **Continuous Improvement** — Evolving through experimentation, learning, and iteration.
+- **Documentation** — A central place for project information and resources.
+
+## Installation
+
+Install NusaForge through npm:
+
+```bash
 npm install nusaforge
+```
 
-For installation requirements, supported commands, and usage instructions, visit the official npm package page.
+## Quick Start
 
-NPM PACKAGE
+Refer to the official npm package documentation for supported commands, configuration, and usage examples.
 
-https://www.npmjs.com/package/nusaforge
+## Documentation
 
-QUICK START
+- [npm Package](https://www.npmjs.com/package/nusaforge)
+- [Installation Guide](docs/installation.md)
+- [Frequently Asked Questions](docs/faq.md)
 
-After installation, refer to the official package documentation for supported commands, configuration, and usage examples.
+## About the Creator
 
-PROJECT LINKS
+**Siswanto** is an Indonesian developer interested in programming, software engineering, infrastructure, and practical technology.
 
-npm: https://www.npmjs.com/package/nusaforge
-GitHub: Add the official repository URL here.
+NusaForge reflects a commitment to continuous learning, logical problem-solving, and building software with purpose.
 
-ABOUT THE CREATOR
+## Contributing
 
-Siswanto is an Indonesian developer interested in software engineering, programming, infrastructure, and practical technology projects.
+Bug reports, suggestions, and documentation improvements are welcome where contributions are supported.
 
-Through NusaForge, he aims to strengthen his engineering skills, explore new ideas, and build useful software for the developer community.
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-His development philosophy emphasizes continuous learning, logical problem-solving, experimentation, and practical solutions.
+## License
 
-CONTRIBUTING
+See [LICENSE](LICENSE) for licensing details.
 
-Suggestions, bug reports, and improvements are welcome if contributions are enabled for this project.
+---
 
-Please review the repository's contribution guidelines before submitting changes.
+<div align="center">
 
-LICENSE
+**Created by Siswanto · Indonesia**
 
-Refer to the LICENSE file for the applicable licensing terms.
+*Forge ideas into software.*
 
-Created by Siswanto in Indonesia.
-
-Forge ideas into software.
+</div>
