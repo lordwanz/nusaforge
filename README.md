@@ -23,9 +23,9 @@ This project focuses on [main benefit] through
 
 ## Features
 
-- **[Feature One]** — [short explanation].
-- **[Feature Two]** — [short explanation].
-- **[Feature Three]** — [short explanation].
+- **AI-Powered Coding** — Assist with coding tasks using AI models.
+- **Flexible AI Providers** — Support local and cloud-based AI providers.
+- **Developer Workflow** — Help streamline coding and software development tasks.
 
 ## Installation
 
